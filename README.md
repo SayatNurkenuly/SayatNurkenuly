@@ -18,13 +18,13 @@ I have basic skills in developing and implementing security strategies, risk ana
 ### 🤝 Social Networks:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/azat-zhakubayev-455206238/" target="_blank">
+    <a href="https://www.linkedin.com/in/sayat-nurkenuly-6a9957292/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://t.me/azatbrb" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
-    <a href="https://www.instagram.com/azat.brb/" target="_blank">
+    <a href="https://www.instagram.com/_sakenskii/" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40" alt="instagram"/>
     </a>
   </div>
