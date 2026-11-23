@@ -1,69 +1,28 @@
+## Sayat Nurkenuly
 
-# Hi, my name is Sayat
+Cybersecurity engineer in banking and financial services, based in Astana, Kazakhstan. Most of my work is privileged access management: who gets admin access, how they get it, and what they do with it.
 
----
+I've run PAM at three financial organisations on three different products. At KazAgroFinance I rolled out Segura PAM from scratch and configured it end to end, and I also run Fudo PAM there. At KZI Bank I got 90% of external admins and contractors connecting through Kron PAM instead of logging in to servers directly. Before that, on the security team at Alatau City Bank, I ran monthly access reviews for AD, AML and SWIFT systems under ISO 27001, PCI DSS and SWIFT CSCF.
 
-### :man_technologist: About me:
+Alongside PAM I work with DLP and WAF, and I automate the routine parts with PowerShell.
 
-Ambitious aspiring security engineer with a passion for advancement in the information security field. Teaching at a university with an emphasis on information systems security
+### Stack
 
-I have basic skills in developing and implementing security strategies, risk analysis and conducting security audits.
+| Area | Tools |
+| --- | --- |
+| Privileged access | Fudo PAM, Segura (senhasegura), Kron PAM |
+| Identity and MFA | Active Directory, Entrust MFA |
+| Data protection | Symantec DLP, Trellix DLP |
+| Network and web | F5 WAF, FortiGate, Check Point |
+| Monitoring | Splunk |
+| Scripting | PowerShell, Python |
 
-- 🥷: Cyber-Security student
+### Learning
 
-- :mailbox: Contact with me:[![Gmail Badge]](nurkenulysayat@gmail.com)
+IBM IT Fundamentals for Cybersecurity (Coursera, 2023) and Cryptography and Information Theory, University of Colorado (Coursera, 2023).
 
----
+### Contact
 
-### 🤝 Social Networks:
+Open to PAM, IAM and security engineering roles, remote or abroad.
 
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/sayat-nurkenuly-6a9957292/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://web.telegram.org/a/#1227409722" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-    </a>
-    <a href="https://www.instagram.com/_sakenskii/" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40" alt="instagram"/>
-    </a>
-  </div>
-
----
-
-### 💻 Technology:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="arduino" alt="arduino" width="40" height="40"/>&nbsp;
-</div>
-
----
-
-### 🛠 Tools:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij-Idea" alt="Intellij-Idea" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
-</div>
-
----
-
-### 💻 Сompleted courses:
-
-| Courses                                                                                          | Сourse end date    |
-| ------------------------------------------------------------------------------------------------ | :-----------------:|
-| coursera.org: IBM - IT Fundamentals for Cybersecurity Specialization                             | 15/09/2023         |
-| coursera.org: University of Colorado Boulder - Probability Theory: Foundation for Data Science   | 10/10/2023         |
-| coursera.org: University of Colorado System - Cryptography and Information Theory                | 29/10/2023         |
-| coursera.org: University of California San Diego - Introduction to Graph Theory                  | 13/11/2023         |
-| coursera.org: Georgia Institute of Technology - Introduction to Electronics                      | 27/12/2023         |
-
---- 
+[LinkedIn](https://www.linkedin.com/in/sayat-nurkenuly) · [Telegram](https://t.me/sakenski04) · sayat_0405@mail.ru
