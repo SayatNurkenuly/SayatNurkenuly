@@ -2,11 +2,11 @@
 
 Cybersecurity engineer in banking and financial services, based in Astana, Kazakhstan. Most of my work is privileged access management: who gets admin access, how they get it, and what they do with it.
 
-I've run PAM at three financial organisations on three different products. At KazAgroFinance I rolled out Segura PAM from scratch and configured it end to end, and I also run Fudo PAM there. At KZI Bank I got 90% of external admins and contractors connecting through Kron PAM instead of logging in to servers directly. Before that, on the security team at Alatau City Bank, I ran monthly access reviews for AD, AML and SWIFT systems under ISO 27001, PCI DSS and SWIFT CSCF.
+I've run PAM at three financial organisations on three different products. At KazAgroFinance I rolled out an enterprise PAM platform from scratch and configured it end to end. At KZI Bank I got 90% of external admins and contractors connecting through PAM instead of logging in to servers directly. Before that, on the security team at Alatau City Bank, I ran monthly access reviews for AD, AML and SWIFT systems under ISO 27001, PCI DSS and SWIFT CSCF.
 
 Alongside PAM I work with DLP and WAF, and I automate the routine parts with PowerShell.
 
-### Stack
+### Tools I've worked with
 
 | Area | Tools |
 | --- | --- |
